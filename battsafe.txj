@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<Project ObjectType="90" CSAOName="Project" CSAOCaption="Project" Version="1.30">
+	<Id>{F942744F-A58A-4008-9D1C-869594E41AD1}</Id>
+	<Name>battsafe</Name>
+	<Ordinal>0</Ordinal>
+	<GlobalOrder>0</GlobalOrder>
+	<VCSType>2</VCSType>
+	<Description>电池安全预警包位置跟踪</Description>
+	<Folders>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{7D943CFB-9923-431F-8FC5-E7330326443B}</Id>
+			<Name>Models</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>0</FileState>
+			<LockState>0</LockState>
+			<Version/>
+			<ModelWrappers>
+				<ProjectModelWrapper ObjectType="93" CSAOName="ProjectModelWrapper" CSAOCaption="Project Model Wrapper">
+					<Id>{ED8EDDA2-FD6A-4623-86A7-CC8E40BC9399}</Id>
+					<Name>MySQL 8.0</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<LockState>0</LockState>
+					<FileState>7</FileState>
+					<Version>af7d007</Version>
+					<ModelObjectType>2001</ModelObjectType>
+					<ModelFileName>MySQL 8_0.txp</ModelFileName>
+					<ModelName/>
+					<DBPlatform/>
+				</ProjectModelWrapper>
+			</ModelWrappers>
+		</ProjectFolder>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{62A95452-F497-4A51-ACCF-4824AEA57018}</Id>
+			<Name>Reports</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>0</FileState>
+			<LockState>0</LockState>
+			<Version/>
+		</ProjectFolder>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{72A6C646-21B9-46C5-BB94-B7EC19C3FEE0}</Id>
+			<Name>SQL Scripts</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>0</FileState>
+			<LockState>0</LockState>
+			<Version/>
+		</ProjectFolder>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{C10B12B3-56C2-4D95-A17B-DEEF720E22D0}</Id>
+			<Name>Others</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>0</FileState>
+			<LockState>0</LockState>
+			<Version/>
+		</ProjectFolder>
+	</Folders>
+	<Git>
+		<Git ObjectType="1250" CSAOName="Git" CSAOCaption="Git">
+			<Id>{BFC7D325-4ECD-4EE8-8EDC-2CD8B9BCE738}</Id>
+			<Name/>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<RemoteRepositoryPath>git@github.com:polarbear20032003/btsafe.git</RemoteRepositoryPath>
+			<ClientPath>C:\Program Files\Git\bin\git.exe</ClientPath>
+			<WorkingDirectory>D:\Toad Data Modeler\Standard\Projects</WorkingDirectory>
+			<UserName/>
+			<Password/>
+		</Git>
+	</Git>
+	<SVN>
+		<SVN ObjectType="1251" CSAOName="SVN" CSAOCaption="SVN">
+			<Id>{178533D3-65AC-47CF-8838-927332780515}</Id>
+			<Name/>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<ClientPath/>
+			<RemoteRepositoryPath/>
+			<WorkingDirectory/>
+			<UserName/>
+			<Password/>
+			<MarkAsReadOnlyModelLocked>0</MarkAsReadOnlyModelLocked>
+			<NonInteractive>0</NonInteractive>
+			<NoAuthCache>0</NoAuthCache>
+		</SVN>
+	</SVN>
+	<ProjectManager>
+		<ProjectManagerStorage ObjectType="1220" CSAOName="ProjectManagerStorage" CSAOCaption="Project Manager Storage">
+			<Id>{4F5D7074-514C-4176-B5EC-5E23D852A22F}</Id>
+			<Name/>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+		</ProjectManagerStorage>
+	</ProjectManager>
+</Project>
